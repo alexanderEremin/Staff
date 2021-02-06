@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Staff</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Список ползователей -->
+    <string name="label_list_users">Сотрудники</string>
+    <string name="no_users">В списке нет сотрудников</string>
+    <string name="add_user">Добавить пользователя</string>
+    <!-- Создать/Редактировать пользователя  -->
+    <string name="label_card_user">Карточка сотрудника</string>
+    <string name="close">Закрыть</string>
+    <string name="safe">Сохранить</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="father_name">Отчество</string>
+    <string name="position">Должность</string>
+    <string name="delete">Удалить</string>
+</resources>
